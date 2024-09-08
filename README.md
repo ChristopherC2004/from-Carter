@@ -9,3 +9,7 @@ I personally am not big into sports, and so I chose one that I just think is coo
 1. DisguisedToast
 2. Myth
 3. PointCrow
+
+* Dynamix MMA in Santa Monica
+* Gleason's Gym in Brooklyn
+* Any gym with a boxing ring that would allow it
