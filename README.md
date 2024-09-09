@@ -13,3 +13,5 @@ I personally am not big into sports, and so I chose one that I just think is coo
 * Dynamix MMA in Santa Monica
 * Gleason's Gym in Brooklyn
 * Any gym with a boxing ring that would allow it
+
+[Link to MyDish](MyDish.md)
