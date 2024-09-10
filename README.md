@@ -15,3 +15,12 @@ I personally am not big into sports, and so I chose one that I just think is coo
 * Any gym with a boxing ring that would allow it
 
 [Link to MyDish](MyDish.md)
+
+-----------------------
+## Food Places
+| Food Place | Description | Location |
+| --- | --- | --- |
+| McDonalds | Fast food burger franchise | found around the world |
+| Mi Casa | Mexican restaurant | found in Kirksville Missouri |
+| Chick-fil-A | Go to place for all things chicken | found in the US and a few other countries |
+| Taco Bell | Fast food taco franchise | found throughout the world|
