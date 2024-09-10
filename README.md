@@ -24,3 +24,11 @@ I personally am not big into sports, and so I chose one that I just think is coo
 | Mi Casa | Mexican restaurant | found in Kirksville Missouri |
 | Chick-fil-A | Go to place for all things chicken | found in the US and a few other countries |
 | Taco Bell | Fast food taco franchise | found throughout the world|
+
+-----------------------
+## Jokey Quotes
+> "I would say don't take advice from people like me who have gotten very lucky. We're very biased. You know, like Taylor Swift telling you to follow your dreams is like a lottery winner telling you, 'Liquidize your assets; buy Powerball tickets - it works!'"
+-Bo Burnham
+
+> "I fully embrace myself as a hypocrite."
+-Bo Burnham
